@@ -63,7 +63,7 @@ Babel
 Estilos
 
 Minimización
-
+trytry
 Empaquetamiento
 
 Conversión a otras versiones de JavaScript
